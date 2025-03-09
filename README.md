@@ -1,5 +1,5 @@
 # 🖥 Aligner
-Welcome to **Aligner**, a basic yet professional static single-page website. Built with simplicity and efficiency in mind, it showcases essential freelance services in a clean and visually appealing manner.  
+Welcome to **Aligner**, a basic yet professional **static** single-page website. Built with simplicity and efficiency in mind, it showcases essential freelance services in a clean and visually appealing manner.  
 
 🌐 **Live Preview**: [aligner.vercel.app](https://aligner.vercel.app/)  
 ## 🖥 Features  
